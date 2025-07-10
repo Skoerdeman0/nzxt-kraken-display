@@ -28,8 +28,3 @@ This project will always be free, but if you like it and it was helpful to you, 
 
 <a href="https://www.paypal.com/donate/?hosted_button_id=7S8CZPLAUDN2Q"  target="_blank">![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)</a>
 
-**Follow my accounts**
-
- - [paypal.me/montolentino](https://paypal.me/montolentino)
- -  [@mnrtlntn on Twitter (Dev account)](https://twitter.com/mnrtlntn)
- -  [@montolentino on Instagram](https://instagram.com/montolentino)
